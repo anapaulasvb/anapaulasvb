@@ -3,9 +3,8 @@
 
 - 📡 Sou formada em Engenharia de Telecomunicações
 - 📶 Atualmente trabalho como Engenheira de RF
-- 😃 Pretendo em breve me tornar uma Engenheira de Software/QA
-- 💻 No momento estou aprendendo a linguagem Java
-- 🤓 E aprofundando meus conhecimentos em QA com cursos online
+- 😃 Estou em transição de carreira para me tornar uma Engenheira de Software/QA
+- 🤓 No momento estou aprendendo a linguagem Java
 
 <div align="center">
   <a href="https://github.com/anapaulasvb">
