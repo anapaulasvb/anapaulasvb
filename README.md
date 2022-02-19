@@ -3,7 +3,7 @@
 
 - 📡 Sou formada em Engenharia de Telecomunicações
 - 📶 Atualmente trabalho como Engenheira de RF
-- 😃 Estou em transição de carreira para me tornar uma Engenheira de Software/QA
+- 😃 Estou em transição de carreira para me tornar uma Engenheira de Software
 - 🤓 No momento estou aprendendo a linguagem Java
 
 <div align="center">
